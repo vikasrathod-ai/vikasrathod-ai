@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 - 🔐 Passionate about **Cybersecurity** — ethical hacking, CTFs, and network security
-- 🎓 Preparing for **JEE Mains & NEET 2026** | Targeting B.Tech in **CSE / Cybersecurity**
+- 🎓 Preparing for **JEE Mains 2026** | Targeting B.Tech in **CSE / Cybersecurity**
 - 🌆 Based in **Bangalore, India**
 - 🛠️ Currently building skills in: **Linux, Networking, Web Security**
 - ✍️ When I'm not studying, I write **poetry**
