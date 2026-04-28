@@ -36,7 +36,7 @@
 
 | Platform | Status |
 |----------|--------|
-| 🟥 TryHackMe | Active — [@kaalbhairav](https://tryhackme.com/p/kaalbhairav) |
+| 🟥 TryHackMe | Active — | TryHackMe | ✅ 5 Rooms Completed · Top 70% · Level 2 · 1 Badge — [@kaalbhairav](https://tryhackme.com/p/kaalbhairav) |
 | 🚩 PicoCTF | Practicing challenges |
 | 🕸️ PortSwigger Web Academy | Web security labs |
 | 🏴 HackTheBox | Starting soon |
@@ -47,11 +47,11 @@
 
 ## 📌 Featured Projects
 
-> *(Coming soon — CTF writeups, scripts, and tools)*
+> *Actively building — writeups and tools coming soon!*
 
-- 🔧 **[Project 1]** — Description
-- 🔍 **[CTF Writeup]** — Description
-- 🐍 **[Python Script]** — Description
+- 🔐 **[Offensive Security Intro]** — TryHackMe room completed
+- 🛡️ **[Defensive Security Intro]** — TryHackMe room completed  
+- 🤖 **[AI/ML Security Threats]** — TryHackMe room completed
 
 ---
 
