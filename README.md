@@ -36,7 +36,7 @@
 
 | Platform | Status |
 |----------|--------|
-| 🟥 TryHackMe | Active — | TryHackMe | ✅ 5 Rooms Completed · Top 70% · Level 2 · 1 Badge — [@kaalbhairav](https://tryhackme.com/p/kaalbhairav) |
+| 🟥 TryHackMe | TryHackMe | ✅ 5 Rooms · Top 70% · Lvl 2 · [@kaalbhairav](https://tryhackme.com/p/kaalbhairav) |
 | 🚩 PicoCTF | Practicing challenges |
 | 🕸️ PortSwigger Web Academy | Web security labs |
 | 🏴 HackTheBox | Starting soon |
